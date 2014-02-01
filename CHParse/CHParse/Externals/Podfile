@@ -1,0 +1,4 @@
+platform :ios, '7.0'
+xcodeproj '../../CHParse.xcodeproj'
+workspace '../../CHParse'
+pod 'Parse'
