@@ -1,1 +1,1 @@
-../../../Facebook-iOS-SDK/src/FBSessionUtility.h
+../../../Facebook-iOS-SDK/src/Login/FBSessionUtility.h

@@ -1,0 +1,22 @@
+/* 
+  localizable.strings
+  CHParse
+
+  Created by Julien on 10/02/2014.
+  Copyright (c) 2014 WebD. All rights reserved.
+*/
+"sessionlist.title" = "Prochaines sessions";
+"sessionadd.title" = "Ajouter une session";
+"speakerslist.title" = "Choisir un intervenant";
+"speakeradd.title" = "Nouvel intervenant";
+"sessiondetails.title" = "Détail de la session";
+"global.loading" = "Chargement en cours";
+"global.OK" = "OK";
+
+
+"global.error.title" = "Erreur";
+"global.error.subtitle" = "Une erreur est survenue, veuillez nous en excuser.";
+
+"global.error.network.timeout" = "La connexion avec le serveur a mis trop de temps à s’établir. Merci de réessayer ultérieurement avec une meilleure couverture réseau.";
+"global.error.network.offline" = "Vous n'êtes pas connecté à Internet. Merci d'activer votre connexion internet et de réessayer.";
+"global.error.network.default" = "Une erreur s'est produite lors de la connexion au serveur. Veuillez réessayer.";

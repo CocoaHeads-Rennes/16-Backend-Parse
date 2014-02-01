@@ -1,1 +1,1 @@
-../../../Facebook-iOS-SDK/src/FBSDKVersion.h
+../../../Facebook-iOS-SDK/src/Core/FBSDKVersion.h

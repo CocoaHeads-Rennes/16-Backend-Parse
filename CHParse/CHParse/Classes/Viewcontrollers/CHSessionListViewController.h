@@ -7,7 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface CHSessionListViewController : UIViewController
+#import "CHViewController.h"
+@interface CHSessionListViewController : CHViewController <UITableViewDataSource, UITableViewDelegate> {
+	NSArray         *contents_;
+	NSDateFormatter *cellDateFormatter_;
+}
+@property (weak, nonatomic) IBOutlet UITableView *tableView;
 
 @end

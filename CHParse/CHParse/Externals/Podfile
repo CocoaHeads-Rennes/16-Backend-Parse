@@ -1,4 +1,6 @@
 platform :ios, '7.0'
 xcodeproj '../../CHParse.xcodeproj'
-workspace '../../CHParse'
+workspace '../../CocoaHeadsParse'
 pod 'Parse'
+pod 'SVProgressHUD'
+pod 'AsyncImageView', '~> 1.5.1'

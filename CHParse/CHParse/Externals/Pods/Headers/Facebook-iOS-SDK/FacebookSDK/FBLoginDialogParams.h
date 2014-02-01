@@ -1,1 +1,1 @@
-../../../Facebook-iOS-SDK/src/FBLoginDialogParams.h
+../../../Facebook-iOS-SDK/src/DeviceAPI/FBLoginDialogParams.h

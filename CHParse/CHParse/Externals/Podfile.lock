@@ -1,13 +1,19 @@
 PODS:
-  - Facebook-iOS-SDK (3.11.1)
+  - AsyncImageView (1.5.1)
+  - Facebook-iOS-SDK (3.12.0)
   - Parse (1.2.18):
     - Facebook-iOS-SDK (~> 3.11)
+  - SVProgressHUD (1.0)
 
 DEPENDENCIES:
+  - AsyncImageView (~> 1.5.1)
   - Parse
+  - SVProgressHUD
 
 SPEC CHECKSUMS:
-  Facebook-iOS-SDK: 42a1de39170b858d675c2453d8aace55c51be2bb
+  AsyncImageView: 686febb2b2a923353ede67c529d257498059852d
+  Facebook-iOS-SDK: c09f7d80db5c48170ff834bc03ebe774c49d1f5b
   Parse: 6dd57f2af9f89dc6facc755cec4e96f8b739b1fb
+  SVProgressHUD: 5e10939a296debf5fe5a5895eda9539b8b2114f1
 
 COCOAPODS: 0.28.0
